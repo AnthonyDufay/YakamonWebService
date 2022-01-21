@@ -18,7 +18,7 @@
 
         <versions.archunit>0.13.1</versions.archunit>
         <versions.assertj>3.15.0</versions.assertj>
-        <versions.h2>1.4.200</versions.h2>
+        <versions.h2>2.1.210</versions.h2>
         <versions.jackson>2.10.1</versions.jackson>
         <versions.jooq>3.12.3</versions.jooq>
         <versions.junit>4.12</versions.junit>
